@@ -3,6 +3,10 @@
 ## Overview
 The **HR Analytics Dashboard** is a data-driven solution that provides insights into employee attrition, salary distribution, job roles, and other key HR metrics. Developed using **Power BI**, this dashboard helps HR professionals make informed decisions by visualizing crucial workforce trends.
 
+## Dashboard Preview
+![image](https://github.com/user-attachments/assets/3c2ad7e7-6564-4963-a9e2-bf5010b29209)
+
+
 ## Features 🔍
 - **Attrition Analysis**: Breakdown of employee attrition by education, age, job roles, salary slabs, and years at the company.
 - **Demographic Insights**: Analysis of employee distribution based on gender, education, and experience.
